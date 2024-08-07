@@ -4,7 +4,7 @@ This project involves analyzing airline performance and its impact on passengers
 Problem Statement:
 Airline performance significantly affects passenger experience and satisfaction. Understanding flight statuses, delays, and their impact can help airlines improve their operations and enhance customer service. This project aims to address the following questions:
 1. What are the performance metrics of different airlines, including canceled, delayed, and on-time flights?
-2. How does the average delay time in flights vary per day and per year?
+2. How does the average delay time in flights vary per day and year?
 3. What is the overall impact of flight delays and cancellations on passengers?
 
 
