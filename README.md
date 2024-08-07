@@ -10,11 +10,8 @@ Airline performance significantly affects passenger experience and satisfaction.
 
 APPROACH:
 To solve these problems, the following approach was taken:
-
 1. Data Collection: Gathered comprehensive data on airlines, including flight statuses (canceled, delayed, and on-time) and delay times.
-
 2. Data Cleaning: Processed and cleaned the data to ensure accuracy, handling any inconsistencies or missing values.
-
 3. Dashboard Creation: Developed a Power BI dashboard with the following features:
    a) Airline Names: Listed all airlines included in the dataset, providing a basis for further analysis.
    b) Flight Status Analysis: Visualized the number of canceled, delayed, and on-time flights for each airline, helping to assess performance.  
