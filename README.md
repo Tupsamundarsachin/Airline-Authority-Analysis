@@ -20,7 +20,7 @@ To solve these problems, the following approach was taken:
    b) Flight Status Analysis: Visualized the number of canceled, delayed, and on-time flights for each airline, helping to assess performance.  
    c) Average Delay Time: Displayed average delay times per day and per year, offering insights into trends and patterns.
    d) Passenger Impact: Analyzed how flight delays and cancellations affect passenger experience, including potential delays in travel plans and overall inconvenience.
-Additional Analysis:
+
 
 4. Trend Analysis: 
    a) Comparative Analysis: Compared performance metrics between different airlines to highlight areas of excellence and opportunities for improvement.
