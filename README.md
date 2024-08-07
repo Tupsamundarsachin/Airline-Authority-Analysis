@@ -1,7 +1,7 @@
 # Airline-Authority-Analysis
 This project involves analyzing airline performance and its impact on passengers using a Power BI dashboard. The dashboard provides insights into various aspects of airline operations, including flight status, delays, and the overall effect on passenger experience.
 
-Problem Statement:
+PROBLEM STATEMENT:
 Airline performance significantly affects passenger experience and satisfaction. Understanding flight statuses, delays, and their impact can help airlines improve their operations and enhance customer service. This project aims to address the following questions:
 1. What are the performance metrics of different airlines, including canceled, delayed, and on-time flights?
 2. How does the average delay time in flights vary per day and year?
